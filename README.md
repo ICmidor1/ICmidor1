@@ -1,6 +1,6 @@
 Hi, I'm Steven.
 
-I am an EE student interested in digital IC design and hardware architectures for computing-in-memory accelerators.
+I am an EE student interested in digital IC design and hardware architectures for processing-in-memory accelerators.
 
 ## 📢 News
 
@@ -10,6 +10,6 @@ I am an EE student interested in digital IC design and hardware architectures fo
 
 
 ## 🔭 Research Interests
-- Computing-in-Memory
+- Processing-in-Memory
 - Hardware Security
 - Video Codec Hardware
