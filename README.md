@@ -1,15 +1,15 @@
-Hi, I'm Steven.
+# Hi, I'm Steven.
 
-I am an EE student interested in digital IC design and processing-in-memory architecture.
+I am an electrical engineering student interested in digital IC design and hardware architecture, with a focus on processing-in-memory architectures and domain-specific hardware accelerators.
+
+## 🔭 Research Interests
+
+- Processing-in-memory (PIM) and computing-in-memory (CIM) architectures
+- Cryptographic hardware accelerators and hardware security
+- Hardware architectures for video encoding and decoding
 
 ## 📢 News
 
-- 🎉 **[Jan. 2026]** One paper I co-authored has been accepted to **IEEE ISCAS 2026**!
-- 💼 **[Apr. 2026]** I joined **Bitmain/Sophgo** as a Digital IC Design Intern.
-- 🎉 **[Jul. 2026]** One paper has been accepted to **CODES/ISSS 2026**!
-
-
-## 🔭 Research Interests
-- Processing-in-Memory
-- Hardware Security
-- Video Codec Hardware
+- **[Jul. 2026]** A paper I co-authored was accepted to **IEEE/ACM CODES 2026** (formerly CODES+ISSS).
+- **[Apr. 2026]** I joined **Bitmain/Sophgo** as a digital IC design intern.
+- **[Jan. 2026]** A paper I co-authored was accepted to **IEEE ISCAS 2026**.
