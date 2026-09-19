@@ -1,6 +1,10 @@
-# Hi, I'm Steven.
+# Hi, I'm Steven! 👋
 
-I am an electrical engineering student interested in digital IC design and hardware architecture, with a focus on processing-in-memory architectures and domain-specific hardware accelerators.
+I'm an electrical engineering student exploring digital IC design and hardware architecture, with a particular interest in processing-in-memory and domain-specific accelerators.
+
+🌱 Still learning, always curious — one clock cycle at a time.
+
+🚧 This page is a work in progress. More to come!
 
 ## 🔭 Research Interests
 
