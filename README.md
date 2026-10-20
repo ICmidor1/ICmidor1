@@ -14,6 +14,7 @@ I'm an electrical engineering student exploring digital IC design and hardware a
 
 ## 📢 News
 
+- **[Oct. 2026]** I joined **Beijing Institute of Open Source Chip (BOSC)** as a **NoC Design Intern**.
 - **[Jul. 2026]** A paper on which I am a **co-first author** was accepted to **IEEE/ACM CODES 2026** (formerly CODES+ISSS).
 - **[Apr. 2026]** I joined **Bitmain/Sophgo** as a digital IC design intern.
 - **[Jan. 2026]** A paper I co-authored was accepted to **IEEE ISCAS 2026**.
