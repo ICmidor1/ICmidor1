@@ -1,22 +1,18 @@
-# Hi, I'm Steven! 👋
+# Steven
 
-I'm an electrical engineering student exploring digital IC design and hardware architecture, with a particular interest in processing-in-memory and domain-specific accelerators.
+I am an electrical engineering student with research interests in digital integrated circuit design and hardware architecture, particularly processing-in-memory and domain-specific accelerators.
 
 I currently work with **BOSC**.
 
-🌱 Still learning, always curious — one clock cycle at a time.
+## Research Interests
 
-🚧 This page is a work in progress. More to come!
+- **In-memory computing:** Processing-in-memory (PIM) and computing-in-memory (CIM) architectures.
+- **Cryptographic hardware:** Hardware accelerators for cryptographic algorithms and hardware security.
+- **Multimedia hardware:** Hardware architectures for video encoding and decoding.
+- **On-chip interconnects:** Cache-coherent network-on-chip (NoC) architectures.
+- **Design automation:** Large language models (LLMs) for digital IC front-end design and verification.
 
-## 🔭 Research Interests
-
-- Processing-in-memory (PIM) and computing-in-memory (CIM) architectures
-- Cryptographic hardware accelerators and hardware security
-- Hardware architectures for video encoding and decoding
-- Cache-coherent network-on-chip (NoC) architectures
-- Large language models (LLMs) for digital IC front-end design and verification
-
-## 📢 News
+## News
 
 - **[Jul. 2026]** A paper on which I am a **co-first author** was accepted to **IEEE/ACM CODES 2026** (formerly CODES+ISSS).
 - **[Apr. 2026]** I joined **Bitmain/Sophgo** as a digital IC design intern.
