@@ -2,6 +2,8 @@
 
 I'm an electrical engineering student exploring digital IC design and hardware architecture, with a particular interest in processing-in-memory and domain-specific accelerators.
 
+I currently work with **BOSC**.
+
 🌱 Still learning, always curious — one clock cycle at a time.
 
 🚧 This page is a work in progress. More to come!
