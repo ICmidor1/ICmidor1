@@ -13,6 +13,8 @@ I currently work with **BOSC**.
 - Processing-in-memory (PIM) and computing-in-memory (CIM) architectures
 - Cryptographic hardware accelerators and hardware security
 - Hardware architectures for video encoding and decoding
+- Cache-coherent network-on-chip (NoC) architectures
+- Large language models (LLMs) for digital IC front-end design and verification
 
 ## 📢 News
 
